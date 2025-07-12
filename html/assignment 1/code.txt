@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+  <h1>This is My Section</h1>
+
+  <p>
+    Lorem ipsum dolor sit amet <b>consectetur adipisicing</b> elit. Nulla, quam repellendus facilis architecto minus libero!
+    Officiis molestias quaerat quos accusamus sunt reiciendis eius, cupiditate iste 
+    <mark><sup>molestiae</sup></mark> justo eum, ut cumque.
+  </p>
+
+  <!-- الصور -->
+  <img src="images/web.jpg" width="150"/>
+  <img src="images/web.jpg" width="150"/>
+  <img src="images/web.jpg" width="150"/>
+  <p>
+    <a href="#">Lorem ipsum dolor sit amet consectetur</a>
+  </p>
+<hr>
+  <h2>My First Work</h2>
+
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, repellendus? Cupiditate, voluptates esse! Voluptatem, illo quidem?
+    Accusantium, beatae quos<mark> <i>This text is italicized.</i></mark> quibusdam atque deserunt?
+    Obcaecati nisi corrupti incidunt dolore dignissimos fugiat.
+  </p>
+
+  <p>
+    Itaque rerum quisquam <mark>molestias eaque</mark> sit voluptas sed ipsum excepturi necessitatibus quam quo, provident assumenda, natus sint!
+  </p>
+
+  <!-- أزرار -->
+  <button>Click me</button>
+  <button>Click me</button>
+  <button>Click me</button>
+<hr>
+  <h3>A Sub Heading</h3>
+
+  <p>
+    Lorem, ipsum dolor sit amet <b>consectetur adipisicing elit</b>. Nesciunt reiciendis illo ut facilis minus 
+    <mark>fuga excepturi aut dolor</mark>. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga facilis cupiditate iure maiores officiis, expedita cumque pariatur.
+    Illo dolor quo dicta asperiores cumque <del>incidunt at vero pariatur voluptatem debitis aliq</del> uam rem rerum voluptas ,placeat sit, repellat architecto ad quisquam neque impedit in iure!
+    Minima odio laudantium recusandae, laborum quam adipisci omnis 
+    <u>reiciendis quod impedit optio ut aut soluta</u> nostrum nihil repellat mollitia nemo natus sint quam rerum ratione voluptatem molestias quaerat.
+    Distinctio <mark><sub>possimus nih</sub></mark> possimus nihil pariatur?
+  </p>
+
+</body>
+</html>

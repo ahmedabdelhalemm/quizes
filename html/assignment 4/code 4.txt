@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Us Page</title>
+</head>
+<body>
+
+  <!-- About Us Section -->
+  <div>
+    <h2>About Us</h2>
+    <p>Pellentesque elementum libero enim, eget gravida nunc laoreet et. Nullam ac enim auctor, fringilla risus at, imperdiet turpis.</p>
+    
+    <div>
+      <p>Branding</p>
+      <div>80%</div>
+      <p>Web Design</p>
+      <div>95%</div>
+      <p>Graphic Design</p>
+      <div>65%</div>
+      <p>Development</p>
+      <div>70%</div>
+    </div>
+
+    <div>
+      <p>
+        Pellentesque vel elit egestas, pretium est ac, convallis orci. Vivamus sem nisl, tristique et feugiat vitae, porttitor et felis.
+      </p>
+      <p>
+        Nullam eget erat nec erat tristique fringilla. Suspendisse et arcu a eros gravida placerat. Nulla facilisi.
+      </p>
+    </div>
+  </div>
+
+
+  <div>
+    <h2>Our Team</h2>
+    <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</p>
+
+    <div>
+     
+      <div style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="webb.jpg"width="250" alt="Michael Broad">
+        <p><strong>Michael Broad</strong></p>
+        <p>Web Designer</p>
+      </div>
+
+      
+      <div style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="webb.jpg"width="250" alt="Jeannette Crow">
+        <p><strong>Jeannette Crow</strong></p>
+        <p>CEO Founder</p>
+      </div>
+
+     
+      <div style="display: inline-block; text-align: center; margin: 10px;">
+       <img src="webb.jpg"width="250" alt="Martin Lawrence">
+        <p><strong>Martin Lawrence</strong></p>
+        <p>App Developer</p>
+      </div>
+
+      
+      <div style="display: inline-block; text-align: center; margin: 10px;">
+         <img src="webb.jpg"width="250"alt="Isabella Dawson">
+        <p><strong>Isabella Dawson</strong></p>
+        <p>Creative Director</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contact Button -->
+  <div>
+    <p>Do you have any ideas?</p>
+    <button>Contact Us</button>
+  </div>
+
+</body>
+</html>
