@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Our Team</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+</head>
+<body>
+
+  <section class="team-section">
+    <h2>Our Team</h2>
+    <p class="subtitle">
+      Vestibulum ante ipsum primis in faucibus orci. Morbi tincidunt urna imperdiet tincidunt rhoncus. Sed mollis ligula non massa aliquam faucibus.
+    </p>
+
+    <div class="team-container">
+      <!-- Team Member 1 -->
+      <div class="team-card">
+        <div class="card-img">
+          <img src="webbb.jpg" alt="Michael Broad" />
+          <div class="overlay">
+            <div class="social">
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+              <a href="#"><i class="fab fa-dribbble"></i></a>
+            </div>
+          </div>
+        </div>
+        <h3 class="name">Michael Broad</h3>
+        <p class="role">Web Designer</p>
+      </div>
+
+      <!-- Team Member 2 -->
+      <div class="team-card">
+        <div class="card-img">
+          <img src="webbbb.jpg" alt="Jeannette Crow" />
+          <div class="overlay">
+            <div class="social">
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+              <a href="#"><i class="fab fa-dribbble"></i></a>
+            </div>
+          </div>
+        </div>
+        <h3 class="name">Jeannette Crow</h3>
+        <p class="role">CEO Founder</p>
+      </div>
+
+      <!-- Team Member 3 -->
+      <div class="team-card">
+        <div class="card-img">
+          <img src="webbbbbb.jpg" alt="Martin Lawrence" />
+          <div class="overlay">
+            <div class="social">
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+              <a href="#"><i class="fab fa-dribbble"></i></a>
+            </div>
+          </div>
+        </div>
+        <h3 class="name">Martin Lawrence</h3>
+        <p class="role">App Developer</p>
+      </div>
+
+      <!-- Team Member 4 -->
+      <div class="team-card">
+        <div class="card-img">
+          <img src="webbbbb.jpg" alt="Isabella Dowson" />
+          <div class="overlay">
+            <div class="social">
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+              <a href="#"><i class="fab fa-dribbble"></i></a>
+            </div>
+          </div>
+        </div>
+        <h3 class="name">Isabella Dowson</h3>
+        <p class="role">Creative Director</p>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
