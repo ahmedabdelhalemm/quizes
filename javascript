@@ -1,1 +1,1 @@
-a
+delete javascript
